@@ -6,8 +6,5 @@ TODO http://acacha.org/mediawiki/Multimedia
 
 - Eric Garcia
 - Quim Gonzalez
-- Gerard Rey https://greygonz.github.io/multimedia/
-- Alex Sorribes 
-
-
-
+- Gerard Rey: https://greygonz.github.io/multimedia/
+- Alex Sorribes: https://sorribes22.github.io/multimedia/
